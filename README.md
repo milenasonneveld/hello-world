@@ -1,5 +1,3 @@
-# hello-world
-Ideas and resources
+# Hello world
 
-oragnisation
-- OSH on github openfab and wikifab
+I'm exploring energy flows to discover renewable energy in an abundant world.
